@@ -2,3 +2,4 @@ This is a sample text
 update text in develop branch
 Add next line in develop
 Add 4th line in develop
+Add 5th line in develop by another developer
